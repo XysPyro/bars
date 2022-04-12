@@ -49,3 +49,13 @@ Horaires : samedi 16:00–03:00
 
 Adresse : 6 Rue des Trois Journées, 31000 Toulouse
 Horaires : samedi 10:00–03:00
+
+## Délirium Café Toulouse
+
+Adresse : 54 All. Jean Jaurès, 31000 Toulouse
+Horaires : samedi 16:30:00–03:00
+
+## ROOSTER & BEER
+
+Adresse : 100 Rue Pierre-Paul Riquet
+Horaires : samedi 17:30:00–03:00
